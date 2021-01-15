@@ -1,0 +1,4 @@
+inc r = r + 1
+
+pythagoreanTriple :: Integer -> Integer -> Integer
+pythagoreanTriple a b c = a^2 + b^2 = c^2
